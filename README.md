@@ -1,4 +1,7 @@
 # README
+# 実装理由
+HTMLやCSSをスクールで学び、学びをもっと活かしたいという思いと、<br>
+更にJavaScriptにも興味があり実装をしました。
 # Name（リポジトリ/プロジェクト/OSSなどの名前）
 
 WorkationWorld<br>Workationを考えている人が場所や宿泊先を探せるサービス 
@@ -7,9 +10,9 @@ WorkationWorld<br>Workationを考えている人が場所や宿泊先を探せ�
 
 https://gyazo.com/7b27efd9b43b0d4cd66e1fa784ed76d5
 
-# Features
+# Usage
 
-他のサービスに比べ写真などボタンが変わった動きをして、楽しくサービスを使っていただけると思います。
+Workationのサービスのwebページを作りました。<br>少し変わった写真やボタンの動きを閲覧いただけます。
 
 # Note 
 
@@ -19,11 +22,11 @@ https://gyazo.com/7b27efd9b43b0d4cd66e1fa784ed76d5
 
 https://mystifying-noyce-15264b.netlify.app
 
-#使用技術
+#使用技術<br>
 フロントエンド
 ・HTML/CSS
 ・Scss
 ・JavaScript
-インフラ・環境構築等
+<br>インフラ・環境構築等
 ・Git/GitHub
 ・netlify
